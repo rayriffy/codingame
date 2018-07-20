@@ -1,9 +1,11 @@
 Explosions!
 ===========
 
+![Megumin](https://media.giphy.com/media/eBN6oifiv4k5G/giphy.gif)
+
 [CodinGame](https://www.codingame.com/contribute/view/124571d704a8c9f0cbcc3e1abb8b745eb3e1)
 
-Recomended solution: Python3
+Recomended solution: *Python3*
 
 Statement
 ---------
